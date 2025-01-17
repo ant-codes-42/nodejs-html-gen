@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-html-gen",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTML generato",
+  "homepage": "https://github.com/ant-codes-42/nodejs-html-gen#readme",
+  "bugs": {
+    "url": "https://github.com/ant-codes-42/nodejs-html-gen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant-codes-42/nodejs-html-gen.git"
+  },
+  "license": "ISC",
+  "author": "Anthony Schwab",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.3.2"
+  }
+}
